@@ -168,3 +168,7 @@ Sectify API uses JSON Web Tokens (JWT) for authentication. Users need to registe
 ## Voting -Dashboard
 
 Sectify dashboard endpoints allow users to casttheir votes securely using the decentralize system voting as each block of votes is stored in the blockchain.
+
+```
+live link: https://sectify.vercel.app/
+```
